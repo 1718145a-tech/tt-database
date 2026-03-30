@@ -1,24 +1,30 @@
 # tt-database
-Evaluación de la aplicabilidad de las métricas de confiabilidad del tiempo de viaje del HCM-7
-Este repositorio contiene el análisis comparativo desarrollado para evaluar el desempeño de redes viales urbanas en contextos emergentes, comparando modelos teóricos con datos empíricos.
+Evaluation of the Applicability of HCM-7 Travel Time Reliability Metrics
 
-Resumen del Proyecto
-Se presenta una comparativa entre:
--Metodología HCM-7: Resultados obtenidos mediante el software StreetVal (enfoque determinístico).
--Datos Empíricos: Tiempos de viaje extraídos mediante un algoritmo propio basado en servicios de mapas digitales (Google Maps).
+This repository contains the comparative analysis developed to assess the performance of urban road networks in emerging contexts by contrasting theoretical model outputs with empirical data.
 
-Caso de Estudio
-El análisis se centró en un corredor arterial de 2.0 km en la ciudad de Morelia, México, con 14 intersecciones semaforizadas, recolectando datos entre abril y julio de 2025.
+Project Summary
 
-Métricas Evaluadas
--PTI (Planning Time Index).
--BI (Buffer Index).
--TTI (Travel Time Index).
+This study presents a comparison between:
 
-Autores
-Aimara J. Bolaños-Montañez (UMSNH).
-Antonio Hurtado-Beltrán (UMSNH).
-Agustín Guerra (INDICATIC).
-Nelio Pastor-Gómez (UMSNH).
+HCM-7 methodology: Results obtained using StreetVal, based on a deterministic modeling approach.
+Empirical data: Travel times extracted through a custom algorithm built on digital mapping services, specifically Google Maps.
 
-Este trabajo destaca la necesidad de calibrar la metodología del HCM para reflejar las realidades de las regiones en desarrollo.
+Case Study
+
+The analysis focused on a 2.0 km arterial corridor in Morelia, Mexico, consisting of 14 signalized intersections. Data were collected between April and July 2025.
+
+Evaluated Metrics
+
+PTI: Planning Time Index
+BI: Buffer Index
+TTI: Travel Time Index
+
+Authors
+
+Aimara J. Bolaños-Montañez (UMSNH)
+Antonio Hurtado-Beltrán (UMSNH)
+Agustín Guerra (INDICATIC)
+Nelio Pastor-Gómez (UMSNH)
+
+This work emphasizes the need to calibrate the HCM methodology so that it more accurately reflects the operational conditions of developing regions.
